@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Just Call me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Gureato Daze
 
 <!---
 Arth-BCA/Arth-BCA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
